@@ -1,6 +1,6 @@
 # HacktoberFest 2022
 
-Thank you for choosing support Hacktoberfest with VetsWhoCode. We have a few projects we could can help use with. There will also be reviewers for each repository. Please select the hacktoberfest tags so you can get credit. **PLEASE DO ONE PR PER ISSUE**
+Thank you for choosing support Hacktoberfest with VetsWhoCode. We have a few projects we could can help use with. There will also be reviewers for each repository. Please select the hacktoberfest tags so you can get credit. **PLEASE DO ONE Pull Request PER ISSUE**.
 
 ## Web Curriculum
 Reviewers for this will be [Schuster Braun](https://github.com/axecopfire) and [Mike White](https://github.com/myquite).
