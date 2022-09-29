@@ -1,10 +1,11 @@
-#HacktoberFest 2022
+# HacktoberFest 2022
 
-Thank you for choosing support Hacktoberfest with VetsWhoCode. We have a few projects we could can help use with. There will also be reviewers for each repository. Please select the hacktoberfest tags so you can get credit.
+Thank you for choosing support Hacktoberfest with VetsWhoCode. We have a few projects we could can help use with. There will also be reviewers for each repository. Please select the hacktoberfest tags so you can get credit. **PLEASE DO ONE PR PER ISSUE**
 
 ## Web Curriculum
 Reviewers for this will be [Schuster Braun](https://github.com/axecopfire) and [Mike White](https://github.com/myquite).
 You can locate all issues for Web Curriculum [here](https://github.com/Vets-Who-Code/web-curriculum/labels/hacktoberfest).
+Please follow our docmumentation on [Build Learn Opportunities](https://github.com/Vets-Who-Code/course-development-guide#build-learning-activities).
 
 ## Web App
 Reviewers for this will be [Cameron Porter](https://github.com/Cameron-Porter) and [Ryan Rose](https://github.com/rmrose78).
