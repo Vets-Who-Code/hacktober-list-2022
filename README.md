@@ -30,3 +30,4 @@ Issues will be placed [here](https://github.com/Vets-Who-Code/windows-dev-guide/
 
 Reviewers will be [Schuster Braun](https://github.com/axecopfire) and [Mike White](https://github.com/myquite).
 
+Issues for the prework will be [here](https://github.com/Vets-Who-Code/Prework/labels/hacktoberfest).
